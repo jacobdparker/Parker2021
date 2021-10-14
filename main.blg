@@ -1,0 +1,187 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: apj.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ParkerLongcope2017/PL2017.bib
+Database file #2: Thesis-Introduction/intro.bib
+Repeated entry---line 60 of file Thesis-Introduction/intro.bib
+ : @article{Brannon2015
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 122 of file Thesis-Introduction/intro.bib
+ : @article{Lemen2012
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 161 of file Thesis-Introduction/intro.bib
+ : @article{IRIS
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 322 of file Thesis-Introduction/intro.bib
+ : @article{Furth1963
+ :                   ,
+I'm skipping whatever remains of this entry
+Database file #3: MOSESI-Spectral-Content/ParkerKankelborg2018.bib
+Repeated entry---line 44 of file MOSESI-Spectral-Content/ParkerKankelborg2018.bib
+ : @article{ESIS
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 359 of file MOSESI-Spectral-Content/ParkerKankelborg2018.bib
+ : @article{EIT
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 384 of file MOSESI-Spectral-Content/ParkerKankelborg2018.bib
+ : @article{ChiantiI
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 398 of file MOSESI-Spectral-Content/ParkerKankelborg2018.bib
+ : @article{ChiantiX
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 434 of file MOSESI-Spectral-Content/ParkerKankelborg2018.bib
+ : @article{Fox2010
+ :                 ,
+I'm skipping whatever remains of this entry
+Database file #4: ESIS_Mission/ESIS_Mission.bib
+Repeated entry---line 91 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{Dere1989
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 129 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{ChiantiI
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 143 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{ChiantiX
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 162 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{Innes2015
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 181 of file ESIS_Mission/ESIS_Mission.bib
+ : @book{KakSlaney2001
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 192 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{DescourDereniakCTIS1995
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 222 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{ESIS
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 279 of file ESIS_Mission/ESIS_Mission.bib
+ : @phdthesis{Rust2017
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 290 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{Rust2019
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 307 of file ESIS_Mission/ESIS_Mission.bib
+ : @phdthesis{Fox2011
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 318 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{Courrier2018
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 373 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{Okamoto1991
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 389 of file ESIS_Mission/ESIS_Mission.bib
+ : @article{Verhoeven1993
+ :                       ,
+I'm skipping whatever remains of this entry
+Database file #5: ESIS_Mission/solar_instrument_papers.bib
+Repeated entry---line 114 of file ESIS_Mission/solar_instrument_papers.bib
+ : @article{Lemen2012
+ :                   ,
+I'm skipping whatever remains of this entry
+Database file #6: ESIS_Mission/solar.bib
+Repeated entry---line 131 of file ESIS_Mission/solar.bib
+ :  @article{harra2020
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 150 of file ESIS_Mission/solar.bib
+ :  @article{harra2017
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 167 of file ESIS_Mission/solar.bib
+ : @article{golub2020
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 182 of file ESIS_Mission/solar.bib
+ : @article{winebarger2019
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 201 of file ESIS_Mission/solar.bib
+ : @article{Fox2010
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 231 of file ESIS_Mission/solar.bib
+ : @article{Zhitnik1998
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1751 of file ESIS_Mission/solar.bib
+ : @article{culhane2007
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3997 of file ESIS_Mission/solar.bib
+ : @article{kosugi2007
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6803 of file ESIS_Mission/solar.bib
+ : @article{tousey1973
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "MUSE"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--No publisher or address in JudgeBook
+Warning--No publisher or address in Parker1979
+Warning--No publisher or address in Petschek1964
+Warning--No publisher or address in Priest2014
+You've used 109 entries,
+            2387 wiz_defined-function locations,
+            1295 strings with 30020 characters,
+and the built_in function-call counts, 63365 in all, are:
+= -- 7101
+> -- 3116
+< -- 6
++ -- 1079
+- -- 1122
+* -- 4988
+:= -- 9185
+add.period$ -- 109
+call.type$ -- 109
+change.case$ -- 1198
+chr.to.int$ -- 109
+cite$ -- 113
+duplicate$ -- 3591
+empty$ -- 2917
+format.name$ -- 1273
+if$ -- 12545
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 330
+num.names$ -- 445
+pop$ -- 1193
+preamble$ -- 1
+purify$ -- 1415
+quote$ -- 0
+skip$ -- 3846
+stack$ -- 0
+substring$ -- 3150
+swap$ -- 1843
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 844
+warning$ -- 4
+while$ -- 420
+width$ -- 0
+write$ -- 1306
+(There were 32 error messages)
