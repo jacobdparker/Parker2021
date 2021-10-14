@@ -2,11 +2,4 @@
 *.aux
 *.log
 *.toc
-*.synctex.gz
-*.lof
-*.lot
-*.loa
-*.out
 
-# PDF output - usually a bad idea to keep this in Git
-*.pdf

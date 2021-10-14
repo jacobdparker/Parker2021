@@ -154,9 +154,14 @@ Forbes, T.~G.,  \& Priest, E.~R. 1984, in Solar Terrestrial Physics: Present
 {Fox}, J.~L., {Kankelborg}, C.~C.,  \& {Thomas}, R.~J. 2010, \apj, 719, 1132
 
 \bibitem[\protect\citeauthoryear{{Furth}, {Killeen}, \& {Rosenbluth}}{{Furth}
-  et~al.}{1963}]{Furth1963}
-{Furth}, H.~P., {Killeen}, J.,  \& {Rosenbluth}, M.~N. 1963, Physics of Fluids,
-  6, 459
+  et~al.}{1963a}]{FKR}
+{Furth}, H.~P., {Killeen}, J.,  \& {Rosenbluth}, M.~N. 1963a, Physics of
+  Fluids, 6, 459
+
+\bibitem[\protect\citeauthoryear{{Furth}, {Killeen}, \& {Rosenbluth}}{{Furth}
+  et~al.}{1963b}]{Furth1963}
+{Furth}, H.~P., {Killeen}, J.,  \& {Rosenbluth}, M.~N. 1963b, Physics of
+  Fluids, 6, 459
 
 \bibitem[\protect\citeauthoryear{{Golding}, {Leenaarts}, \&
   {Carlsson}}{{Golding} et~al.}{2017}]{Golding2017}
