@@ -1,0 +1,9 @@
+[submodule "ESIS_Mission"]
+	path = ESIS_Mission
+	url = https://github.com/jacobdparker/ESIS_Mission
+[submodule "MOSESI-Spectral-Content"]
+	path = MOSESI-Spectral-Content
+	url = https://github.com/jacobdparker/MOSESI-Spectral-Content
+[submodule "Thesis-Introduction"]
+	path = Thesis-Introduction
+	url = https://github.com/jacobdparker/Thesis-Introduction
