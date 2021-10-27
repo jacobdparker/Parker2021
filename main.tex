@@ -46,7 +46,7 @@
 %         Packages  (add as needed)              %
 % ========================= %
 \usepackage[final]{graphicx} %for the \includegraphics command and figures put [final] before ...
-\graphicspath{{Thesis-Introduction/figures/}{./MOSESI-Spectral-Content/figures/}{./ESIS_Mission/figures}}
+\graphicspath{{Thesis-Introduction/figures/}{./MOSESI-Spectral-Content/figures/}{./ESIS_Mission/figures/}}
 
 %%    {graphix} if you want figures to show up even while in draft mode
 \usepackage{subcaption}    % to be able to have multiple plots in one figure
@@ -147,7 +147,9 @@
 %         Actual Document          %
 % ================================ %
 \begin{document}
+\input{new_commands}
 \begin{preliminary} 
+
 
   % Dedication page (optional, comment out if not using)
   \begin{dedication} 
@@ -159,18 +161,8 @@
     \input{acknow} 
   \end{acknowledgements}
 
-  %vita page (optional, comment out if not using)
-%  \begin{vita}
-%    \input{vita} 
-%  \end{vita}
-
   % Table of Contents, List of Figures|Tables|etc.
   \contents
-
-  % Nomenclature page (optional, comment out if not using)
-%  \begin{nomen}
-%    \input{nomenclature} 
-%  \end{nomen}
 
   % Abstract
   \begin{abstract}
@@ -179,7 +171,6 @@
 \end{preliminary}
 
 % Dissertation chapters:  add/change as needed
-\input{new_commands}
 \input{Thesis-Introduction/introduction}
 \input{Manuscript-Options/Ch1}
 \input{ParkerLongcope2017/ParkerLongcope2017}
@@ -201,8 +192,7 @@
 % REFERENCES
 \bibliographystyle{apj} % Use a style you and your adviser like
 \references  % Reference title and TOC entry
-\bibliography{ParkerLongcope2017/PL2017,Thesis-Introduction/intro,MOSESI-Spectral-Content/ParkerKankelborg2018,
-	ESIS_Mission/ESIS_Mission,ESIS_Mission/solar_instrument_papers,ESIS_Mission/solar}
+\bibliography{ParkerLongcope2017/PL2017,Thesis-Introduction/intro,MOSESI-Spectral-Content/ParkerKankelborg2018,ESIS_Mission/ESIS_Mission,ESIS_Mission/solar_instrument_papers,ESIS_Mission/solar}
 % Bibliography.  Add your .bib file(s) here
 
 % APPENDIX
